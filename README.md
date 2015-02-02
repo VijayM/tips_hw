@@ -6,3 +6,4 @@ Swift Tip Calculator HW project
   - Required: Settings view
 
 # Walkthrough
+<img src="https://cloud.githubusercontent.com/assets/53492/6010722/ec6e66f0-aae9-11e4-9bd6-d0521c1014da.gif" /> 
